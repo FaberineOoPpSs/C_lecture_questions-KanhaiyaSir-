@@ -7,8 +7,7 @@ that can be use in C program
 - while()
 - for ()
 
-1. **do ... while** 
-                
+1. **do ... while**  
                 <p>This loop provides the facility to perfor the actions first, it<br>
                 means the statements given in the body will be executed first and then<br>
                 the condition will be tested at the bottom of the loop.<br>
@@ -31,7 +30,6 @@ that can be use in C program
                 <br>
                 </p>
 2. **while** 
-                
                 <p>This loop is a top tested loop where the condition is tested at the top <br>
                 of  the loop and the instructions given in the body will be executed till <br>
                 the condition is satisfied.<br>
