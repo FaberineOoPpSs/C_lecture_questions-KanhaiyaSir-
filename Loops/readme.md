@@ -35,7 +35,7 @@ that can be use in C program
                 the condition is satisfied.<br>
                 <br>
                   ```
-                    syntax:
+                    syntax:<br />
                       while(condition) {
                         statement-1;
                         ...
