@@ -33,12 +33,13 @@ that can be use in C program
 2. **while** 
                 <p>This loop is a top tested loop where the condition is tested at the top <br>
                 of  the loop and the instructions given in the body will be executed till <br>
-                the condition is satisfied.<br>
-                
+                the condition is satisfied.
+                <br>              
                 In this type of loop if the condition given by the user is not satisfied for the<br>
                 first time then the loop will not be executed even once.<br>
-                Problems: Q44
+                Problems: Q44<br>
                 </p>
+                
                 
                 syntax:
                   while(condition) {
@@ -46,6 +47,3 @@ that can be use in C program
                     ...
                     statement-n;
                   }   
-                
-      
-
