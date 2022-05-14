@@ -35,14 +35,14 @@ that can be use in C program
                 the condition is satisfied.<br>
                 <br>
                   ```
-                  syntax:
-                    while(condition) {
-                      statement-1;
-                      ...
-                      statement-n;<br>
-                    }
-                    ```
-                  <br>
+                    syntax:
+                      while(condition) {
+                        statement-1;
+                        ...
+                        statement-n;
+                      }
+                  ```
+                <br>
                 In this type of loop if the condition given by the user is not satisfied for the<br>
                 first time then the loop will not be executed even once.<br>
                 Problems: Q44
