@@ -17,9 +17,7 @@ that can be use in C program
                 syntax:<br>
                   do {<rb>
                     statement-1;<br>
-                    .
-                    .
-                    .
+                    ...
                     statement-n;<br>
                   }while(condition);<br>
                 <br>
@@ -27,6 +25,21 @@ that can be use in C program
                 whether the condition is satisfied or not.<br>
                 <br>
                 *Note*: This loop is basically used for the purpose of data validation.<br>
-                Problems: Q36, Q40
-             
+                Problems: Q36, Q40<br>
+                <br>
+* while: This loop is a top tested loop where the condition is tested at the top <br>
+         of  the loop and the instructions given in the body will be executed till <br>
+          the condition is satisfied.<br>
+          <br>
+          syntax:<br>
+            while(condition) {<br>
+              statement-1;<br>
+              ...
+              statement-n;<br>
+            }<br>
+          <br>
+          In this type of loop if the condition given by the user is not satisfied for the<br>
+          first time then the loop will not be executed even once.<br>
+          Problems: Q44
+      
 
