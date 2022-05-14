@@ -3,9 +3,9 @@ The loop in a program provides the fcaility to reapeat the set of<br>
 instructions in a program. There are the following loop constructs <br>
 that can be use in C program
 
-1. do ... while()
-2. while()
-3. for ()
+- do ... while()
+- while()
+- for ()
 
 1. **do ... while** : This loop provides the facility to perfor the actions first, it<br>
                 means the statements given in the body will be executed first and then<br>
