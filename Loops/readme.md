@@ -15,12 +15,12 @@ that can be use in C program
                 till the condition is satisfied. This loop is also known as bottom-tested loop<br>
                 or exit control loop<br>
                 <br>
-                syntax:<br>
-                  do {<rb>
-                    statement-1;<br>
-                    ...
-                    statement-n;<br>
-                  }while(condition);<br>
+                syntax:  
+                  do {  
+                    statement-1;  
+                    ...  
+                    statement-n;  
+                  }while(condition);  
                 <br>
                 In cas of do while the statements given in the body will be executed minimum once<br>
                 whether the condition is satisfied or not.<br>
@@ -30,22 +30,20 @@ that can be use in C program
                 <br>
                 </p>
 2. **while** 
-                <p>This loop is a top tested loop where the condition is tested at the top <br>
+                This loop is a top tested loop where the condition is tested at the top <br>
                 of  the loop and the instructions given in the body will be executed till <br>
                 the condition is satisfied.<br>
-                <br>
-                ```
+                
                 syntax:
                   while(condition) {
                     statement-1;  
                     ...
                     statement-n;
-                  }  
-                ```
-                <br>
+                  }    
+                
+                
                 In this type of loop if the condition given by the user is not satisfied for the<br>
                 first time then the loop will not be executed even once.<br>
                 Problems: Q44
-                </p>
       
 
